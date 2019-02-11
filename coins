@@ -2810,5 +2810,11 @@
     "asset": "LUMBER",
     "fname": "Lumberscout",
     "rpcport": 26301
+   },
+   {
+    "coin": "ARO",
+    "name": "arionum",
+    "fname": "Arionum",
+    "rpcport": 80
    }
 ]
